@@ -1,0 +1,22 @@
+student 
+employee
+furniture
+employee : fitness 
+marks of three subjects
+customer : depositor : Borrower
+Student : Test : result
+polygon : Triangle, rectangle : output : Triangle, rectangle
+Student <-- Test And Test :: Sports <-- result
+
+Staff:Code 
+    <--Teacher:subjects
+    <--Officer:Grade
+
+
+Staff:code,name
+    <--Teacher:Subjects, Experience
+    <--Officer:Grade, Department
+    <--Typist:Speed, Experience
+        <--Regular:Salary
+        <--Casual:Daily wages
+        

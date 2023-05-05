@@ -1,0 +1,60 @@
+Internally
+    Addition
+    Subtraction
+    Multiplication
+    Division
+    Aoc
+    Poc
+    Aor
+    Por
+    Aot
+    Pot
+    Aos
+    Pos
+    Student Data
+    Employee Data
+
+Externally
+    Addition
+    Subtraction
+    Multiplication
+    Division
+    Aoc
+    Poc
+    Aor
+    Por
+    Aot
+    Pot
+    Aos
+    Pos
+    Student Data
+    Employee Data
+
+Inline
+    Addition
+    Subtraction
+    Multiplication
+    Division
+    Aoc
+    Poc
+    Aor
+    Por
+    Aot
+    Pot
+    Aos
+    Pos
+    Student Data
+    Employee Data
+
+Constructor
+    Default
+    Parameterized 
+    Copy
+
+Destructor
+
+Friend Function
+
+Static Members
+
+Array Of Objects
